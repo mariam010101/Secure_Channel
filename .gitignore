@@ -1,0 +1,14 @@
+# Compiled executables
+packet_interceptor
+*.o
+*.out
+
+# Build directories
+build/
+
+# Temporary files
+*.tmp
+*.log
+
+# Editor files
+.vscode/
