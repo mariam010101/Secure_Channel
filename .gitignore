@@ -12,3 +12,11 @@ build/
 
 # Editor files
 .vscode/
+
+# Secret keys and credentials
+*.key
+*.pem
+.env
+
+# Archives
+*.tar.gz
